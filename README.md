@@ -82,4 +82,7 @@ docker-compose up -d
    - 可通过 `-a user:pass` 启用 Web 登录认证。
 
 ## 鸣谢
+
 [Jrohy](https://github.com/Jrohy)
+
+[eooce](https://github.com/eooce)
