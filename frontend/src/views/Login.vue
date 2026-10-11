@@ -83,7 +83,7 @@
       </el-form>
     </div>
     <div class="footer">
-      <a href="https://github.com/eooce/webssh" target="_blank" rel="noopener noreferrer">WebSSH Console | Powered by eooce</a>
+      <a href="https://github.com/upleung/webssh" target="_blank" rel="noopener noreferrer">WebSSH Console | Powered by upleung</a>
     </div>
   </div>
 </template>
